@@ -1,5 +1,5 @@
 
-package assignment;
+ 
 class smith_number
 {
     public static void main(int num)

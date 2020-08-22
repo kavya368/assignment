@@ -1,5 +1,5 @@
 
-package assignment; 
+  
 class unique_number
 {
     public static void main(String arg[])

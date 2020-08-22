@@ -1,5 +1,5 @@
 
-package assignment;
+ 
 class student
 {
      public static void main(String name,int roll_no,double m1,double m2,double m3,double m4,double m5)

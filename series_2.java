@@ -1,4 +1,4 @@
-package assignment;
+ 
 class series_2
 {
     public static void main(int x)

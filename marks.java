@@ -1,5 +1,5 @@
 
-package assignment;
+ 
 class marks
 {
     public static void main(int roll_no, String name,double m1, double m2, double m3)

@@ -1,6 +1,0 @@
-class circle
-{
-    
-  n
-        
-        
