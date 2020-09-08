@@ -1,6 +1,4 @@
 
-
-
 class calculator
 {
     double a1,b1;
