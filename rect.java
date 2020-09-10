@@ -1,4 +1,4 @@
-class rect
+class rect extends si
 {
     int n1,n2,ans;
     void init(int m,int m2)
