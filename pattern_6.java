@@ -1,7 +1,8 @@
- import java.util.*;  // 1 12 123 1234
-class pattern_3
+import java.util.*;  // A BB CC DDD
+class pattern_6
 {
     int n;
+
     void getData()
     {
         Scanner sc=new Scanner(System.in);
@@ -9,18 +10,22 @@ class pattern_3
         n=sc.nextInt();
     }
     void generatePattern()
-    {
-        int x=0;
+    {    
+        char ch=64;
         for(int i=1;i<=n;i++)
         {
-            x=i;
-            x++;
+            ch++;
+            if(i%2!=0)
+            
             for(int j=1;j<=i;j++)
             {
-                System.out.print("");
+                System.out.print(ch);
+                
             }
+            else
+            for(int j=1;j<=i;j++)
             
-            System.out.println( );
+            System.out.print(""+Character.toLowerCase(ch));
         }
     }
     public static void main()
